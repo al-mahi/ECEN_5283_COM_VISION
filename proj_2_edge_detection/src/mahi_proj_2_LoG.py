@@ -44,7 +44,6 @@ def LoG(path='retina1.jpg', k=2, sigma=0.5, threshold = 1000, N = 120, neighbor=
     img = cv2.imread(path)
     RGB_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     green_img = RGB_img[:, :, 1]
-
     fig1 = plt.figure(1)
     ax = fig1.add_subplot(111)
     ax.imshow(RGB_img)
@@ -88,7 +87,7 @@ def LoG(path='retina1.jpg', k=2, sigma=0.5, threshold = 1000, N = 120, neighbor=
     ax.set_title("LoG:Edges after convolution {}".format(params))
     plt.savefig("log_fig/{}_fig2_{}.png".format(path, fig_num))
 
-    print "connected component ......."
+    print "connected component......."
     r, c = conv_img.shape
     pixels = np.ndindex(conv_img.shape)
     zero_crossed = np.zeros(conv_img.shape, dtype='bool')
@@ -96,13 +95,13 @@ def LoG(path='retina1.jpg', k=2, sigma=0.5, threshold = 1000, N = 120, neighbor=
     for i, j in pixels:
         if i==0 or j==0 or i==r-1 or j==c-1: continue
         if (
-                # np.isclose(conv_img[i,j], 0., atol=0.0001) and
+                # np.isclose(conv_img[i,j], 0., atol=0.0001) and  # gives bad result when this condition is applied
                    (conv_img[i-1, j-1] * conv_img[i+1, j+1] < 0 and np.abs(conv_img[i-1, j-1] * conv_img[i+1, j+1]) >= threshold) \
                 or (conv_img[i-1, j-0] * conv_img[i+1, j+0] < 0 and np.abs(conv_img[i-1, j-0] * conv_img[i+1, j+0]) >= threshold) \
                 or (conv_img[i-1, j+1] * conv_img[i+1, j-1] < 0 and np.abs(conv_img[i-1, j+1] * conv_img[i+1, j-1]) >= threshold) \
                 or (conv_img[i-0, j+1] * conv_img[i+0, j-1] < 0 and np.abs(conv_img[i-0, j+1] * conv_img[i+0, j-1]) >= threshold)
         ):
-            zero_crossed[i,j] = True
+            zero_crossed[i, j] = True
 
     fig3 = plt.figure(3)
     ax = fig3.add_subplot(111)

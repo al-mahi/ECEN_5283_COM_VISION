@@ -579,6 +579,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT ./Oklahoma_State_University_logo.png
 INPUT ./Oklahoma_State_University_logo.png
 INPUT ./Oklahoma_State_University_logo.png
+INPUT ./Oklahoma_State_University_logo.png
+INPUT ./Oklahoma_State_University_logo.png
+INPUT ./Oklahoma_State_University_logo.png
 INPUT ./log_fig/retina1.jpg_fig2_0.png
 INPUT ./log_fig/retina1.jpg_fig2_0.png
 INPUT ./log_fig/retina1.jpg_fig2_0.png
@@ -1078,6 +1081,9 @@ INPUT ./canny_fig/retina4.jpg_fig5_3.png
 INPUT ./match_fig/retina4.jpg_fig9_7.png
 INPUT ./match_fig/retina4.jpg_fig9_7.png
 INPUT ./match_fig/retina4.jpg_fig9_7.png
+INPUT ./Oklahoma_State_University_logo.png
+INPUT ./Oklahoma_State_University_logo.png
+INPUT ./Oklahoma_State_University_logo.png
 INPUT ./Oklahoma_State_University_logo.png
 INPUT ./Oklahoma_State_University_logo.png
 INPUT ./Oklahoma_State_University_logo.png

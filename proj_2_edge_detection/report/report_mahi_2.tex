@@ -139,7 +139,7 @@ shadows,shapes.geometric,arrows}
 
 \subsection{LoG}
 \begin{frame}
-\frametitle{LoG: Retinal Image Cock wise 1 to 4}
+\frametitle{Retinal Image Cock wise 1 to 4}
 \begin{columns}[T] % align columns
 \begin{column}{\textwidth}
 \centering
@@ -196,6 +196,13 @@ f_x =
 \item[\color{blue}\rotatebox{45}{\MVRightarrow}] \begin{center} Positive Slope orientation\end{center}
 \item[\color{cyan}\rotatebox{135}{\MVRightarrow}] \begin{center}Negative Slope orientation\end{center}
 \item[\color{red}\rotatebox{90}{\MVRightarrow}] \begin{center}Vertical orientation\end{center}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{For Match}
+\begin{itemize}
+	\item $m_0 = -0.099$
 \end{itemize}
 \end{frame}
 
@@ -550,12 +557,6 @@ f_x =
 \end{columns}\vfill
 \end{frame}
 
-
-
-
-
-
-
 \section{Conclusion}
 \begin{frame}
 \frametitle{Conclusion}
@@ -564,6 +565,17 @@ f_x =
 	\item LoG is simplistic in design and can but can not capture blood vessel rather captures the edges it is also spatial only does not give orientation information
 	\item Canny gives spatial and orientation information. Besides there are some important criteria like signal to noise ratio, low false positive rate makes it attractive. However non Maximal Suppression can be time consuming.
 	\item Matched filter gives more insight about the edge and better in detecting blood vessel. However manual design of filters may require efforts.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Additional Work}
+\begin{itemize}
+	\item Developed my python implementation of Matlab BWLABEL
+	\item My implementation can be found at LoG implementation py\_bwlabel
+	\item py\_bwlabel is notoriously slow
+	\item I figured out Matlab and skimage.measure.label uses bitwise optimization
+	\item I had to use unofficial python package bwmorph\_thin of BWMORPH as well
 \end{itemize}
 \end{frame}
 

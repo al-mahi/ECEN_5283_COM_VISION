@@ -12,8 +12,8 @@
 \defcounter {refsection}{0}\relax 
 \beamer@subsectionintoc {3}{1}{LoG}{6}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{2}{Canny}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Canny}{16}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {3}{3}{Matched Filter}{23}{0}{3}
+\beamer@subsectionintoc {3}{3}{Matched Filter}{24}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Conclusion}{35}{0}{4}
+\beamer@sectionintoc {4}{Conclusion}{36}{0}{4}

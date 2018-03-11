@@ -63,25 +63,25 @@ def canny(path='retina1.jpg', k=2, sigma=0.5, neighbor=4, threshold=30, N=30, fi
     np.set_printoptions(precision=3, suppress=True)
 
     dfdx = np.array([
-        [0, 0, 0, 0, 0],
-        [0, 1, 2, 1, 0],
-        [0, 0, 0, 0, 0],
-        [0, -1, -2, -1, 0],
-        [0, 0, 0, 0, 0]])
+        [0, 0, 0, 0,0],
+        [0, 1, 2, 1,0],
+        [0, 0, 0, 0,0],
+        [0,-1,-2,-1,0],
+        [0, 0, 0, 0,0]])
 
     dfdy = dfdx.T
 
     conv_x = signal.convolve2d(green_img, dfdx)
     conv_y = signal.convolve2d(green_img, dfdy)
 
-    grad = np.sqrt(conv_x ** 2 + conv_y ** 2)
+    grad_magnitude = np.sqrt(conv_x ** 2 + conv_y ** 2)
     theta = np.arctan2(conv_x, conv_y)
     tan_theta = np.tan(theta)
 
     # threshold = 30  # retina1=30, retina2=30 retina3=25 retina4= 20
 
-    ind = np.where(grad < threshold)
-    grad[ind] = 0
+    ind = np.where(grad_magnitude < threshold)
+    grad_magnitude[ind] = 0
 
     fig1 = plt.figure(1)
     ax = fig1.add_subplot(111)
@@ -98,20 +98,20 @@ def canny(path='retina1.jpg', k=2, sigma=0.5, neighbor=4, threshold=30, N=30, fi
         fy = conv_y[i, j]
         m = np.abs(conv_x[i, j]/conv_y[i, j])
         mm = np.abs(conv_y[i, j]/conv_x[i, j])
-        g = grad[i, j]
-        if i == 0 or j == 0 or i == r - 1 or j == c - 1 or grad[i, j] == 0: continue
+        g = grad_magnitude[i, j]
+        if i == 0 or j == 0 or i == r - 1 or j == c - 1 or grad_magnitude[i, j] == 0: continue
         if fx == 0 or fy == 0:
             if fx == 0 and fy != 0:
-                if g >= grad[i, j + 1] and g >= grad[i, j - 1]:
+                if g >= grad_magnitude[i, j + 1] and g >= grad_magnitude[i, j - 1]:
                     nmx_supressed[i, j] = True
                     edge_orientation[i, j, 0] = 1
             elif fx != 0 and fy == 0:
-                if g >= grad[i + 1, j] and g >= grad[i - 1, j]:
+                if g >= grad_magnitude[i + 1, j] and g >= grad_magnitude[i - 1, j]:
                     nmx_supressed[i, j] = True
                     edge_orientation[i, j, 1] = 1
         elif fx * fy > 0 and abs(fx) >= abs(fy):
-            df1 = grad[i - 1, j - 1] * m + grad[i - 1, j] * (1 - m)
-            df2 = grad[i + 1, j - 1] * (1 - m) + grad[i + 1, j + 1] * m
+            df1 = grad_magnitude[i - 1, j - 1] * m + grad_magnitude[i - 1, j] * (1 - m)
+            df2 = grad_magnitude[i + 1, j - 1] * (1 - m) + grad_magnitude[i + 1, j + 1] * m
             if fx < 0 and fy < 0 and g >= df1:
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 2] = 1
@@ -119,8 +119,8 @@ def canny(path='retina1.jpg', k=2, sigma=0.5, neighbor=4, threshold=30, N=30, fi
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 2] = 1
         elif fx * fy > 0 and abs(fx) < abs(fy):
-            df1 = grad[i - 1, j - 1] * mm + grad[i, j - 1] * (1 - mm)
-            df2 = grad[i, j + 1] * (1 - mm) + grad[i + 1, j + 1] * mm
+            df1 = grad_magnitude[i - 1, j - 1] * mm + grad_magnitude[i, j - 1] * (1 - mm)
+            df2 = grad_magnitude[i, j + 1] * (1 - mm) + grad_magnitude[i + 1, j + 1] * mm
             if fx < 0 and fy < 0 and g >= df1:
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 2] = 1
@@ -128,8 +128,8 @@ def canny(path='retina1.jpg', k=2, sigma=0.5, neighbor=4, threshold=30, N=30, fi
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 2] = 1
         elif fx * fy < 0 and abs(fx) > abs(fy):
-            df1 = grad[i - 1, j + 1] * m + grad[i - 1, j] * (1 - m)
-            df2 = grad[i + 1, j] * (1 - m) + grad[i + 1, j - 1] * m
+            df1 = grad_magnitude[i - 1, j + 1] * m + grad_magnitude[i - 1, j] * (1 - m)
+            df2 = grad_magnitude[i + 1, j] * (1 - m) + grad_magnitude[i + 1, j - 1] * m
             if fx < 0 < fy and g >= df1:
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 1] = 1
@@ -139,8 +139,8 @@ def canny(path='retina1.jpg', k=2, sigma=0.5, neighbor=4, threshold=30, N=30, fi
                 edge_orientation[i, j, 1] = 1
                 edge_orientation[i, j, 2] = 1
         elif fx * fy < 0 and abs(fx) < abs(fy):
-            df1 = grad[i, j + 1] * (1 - mm) + grad[i - 1, j + 1] * mm
-            df2 = grad[i, j - 1] * (1 - mm) + grad[i + 1, j - 1] * mm
+            df1 = grad_magnitude[i, j + 1] * (1 - mm) + grad_magnitude[i - 1, j + 1] * mm
+            df2 = grad_magnitude[i, j - 1] * (1 - mm) + grad_magnitude[i + 1, j - 1] * mm
             if fx < 0 < fy and g >= df1:
                 nmx_supressed[i, j] = True
                 edge_orientation[i, j, 1] = 1

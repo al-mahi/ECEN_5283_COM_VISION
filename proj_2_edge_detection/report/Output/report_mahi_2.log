@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.1)  20 FEB 2018 03:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.1)  2 MAR 2018 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1936,890 +1936,906 @@ Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [8
 
-] <log_fig/retina1.jpg_fig2_0.png, id=189, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig2_0.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig2_0.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig2_0.png used on input line 213.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig2_4.png, id=190, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig2_4.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig2_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig2_4.png used on input line 213.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig3_0.png, id=191, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig3_0.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig3_0.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig3_0.png used on input line 213.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig3_4.png, id=192, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig3_4.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig3_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig3_4.png used on input line 213.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+]
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-213.
+207.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [9
 
- <./log_fig/retina1.jpg_fig2_0.png> <./log_fig/retina1.jpg_fig2_4.png> <./log_f
-ig/retina1.jpg_fig3_0.png> <./log_fig/retina1.jpg_fig3_4.png>] <log_fig/retina1
-.jpg_fig4_0.png, id=210, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig4_0.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig4_0.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig4_0.png used on input line 226.
+] <log_fig/retina1.jpg_fig2_0.png, id=202, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig2_0.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig2_0.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig2_0.png used on input line 220.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig4_4.png, id=211, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig4_4.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig4_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig4_4.png used on input line 226.
+<log_fig/retina1.jpg_fig2_4.png, id=203, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig2_4.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig2_4.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig2_4.png used on input line 220.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig5_0.png, id=212, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig5_0.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig5_0.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig5_0.png used on input line 226.
+<log_fig/retina1.jpg_fig3_0.png, id=204, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig3_0.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig3_0.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig3_0.png used on input line 220.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig5_4.png, id=213, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig5_4.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig5_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig5_4.png used on input line 226.
+<log_fig/retina1.jpg_fig3_4.png, id=205, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig3_4.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig3_4.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig3_4.png used on input line 220.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-226.
+220.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [10
 
- <./log_fig/retina1.jpg_fig4_0.png> <./log_fig/retina1.jpg_fig4_4.png> <./log_f
-ig/retina1.jpg_fig5_0.png> <./log_fig/retina1.jpg_fig5_4.png>] <log_fig/retina1
-.jpg_fig6_0.png, id=231, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig6_0.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig6_0.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig6_0.png used on input line 239.
+ <./log_fig/retina1.jpg_fig2_0.png> <./log_fig/retina1.jpg_fig2_4.png> <./log_f
+ig/retina1.jpg_fig3_0.png> <./log_fig/retina1.jpg_fig3_4.png>] <log_fig/retina1
+.jpg_fig4_0.png, id=223, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig4_0.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig4_0.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig4_0.png used on input line 233.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina1.jpg_fig6_4.png, id=232, 462.528pt x 346.896pt>
-File: log_fig/retina1.jpg_fig6_4.png Graphic file (type png)
-<use log_fig/retina1.jpg_fig6_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig6_4.png used on input line 239.
+<log_fig/retina1.jpg_fig4_4.png, id=224, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig4_4.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig4_4.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig4_4.png used on input line 233.
+
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<log_fig/retina1.jpg_fig5_0.png, id=225, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig5_0.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig5_0.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig5_0.png used on input line 233.
+
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<log_fig/retina1.jpg_fig5_4.png, id=226, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig5_4.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig5_4.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig5_4.png used on input line 233.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-239.
+233.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [11
 
- <./log_fig/retina1.jpg_fig6_0.png> <./log_fig/retina1.jpg_fig6_4.png>] <log_fi
-g/retina2.jpg_fig5_5.png, id=248, 462.528pt x 346.896pt>
-File: log_fig/retina2.jpg_fig5_5.png Graphic file (type png)
-<use log_fig/retina2.jpg_fig5_5.png>
-Package pdftex.def Info: log_fig/retina2.jpg_fig5_5.png used on input line 252.
+ <./log_fig/retina1.jpg_fig4_0.png> <./log_fig/retina1.jpg_fig4_4.png> <./log_f
+ig/retina1.jpg_fig5_0.png> <./log_fig/retina1.jpg_fig5_4.png>] <log_fig/retina1
+.jpg_fig6_0.png, id=244, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig6_0.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig6_0.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig6_0.png used on input line 246.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina2.jpg_fig5_6.png, id=249, 462.528pt x 346.896pt>
-File: log_fig/retina2.jpg_fig5_6.png Graphic file (type png)
-<use log_fig/retina2.jpg_fig5_6.png>
-Package pdftex.def Info: log_fig/retina2.jpg_fig5_6.png used on input line 252.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina2.jpg_fig6_5.png, id=250, 462.528pt x 346.896pt>
-File: log_fig/retina2.jpg_fig6_5.png Graphic file (type png)
-<use log_fig/retina2.jpg_fig6_5.png>
-Package pdftex.def Info: log_fig/retina2.jpg_fig6_5.png used on input line 252.
-
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina2.jpg_fig6_6.png, id=251, 462.528pt x 346.896pt>
-File: log_fig/retina2.jpg_fig6_6.png Graphic file (type png)
-<use log_fig/retina2.jpg_fig6_6.png>
-Package pdftex.def Info: log_fig/retina2.jpg_fig6_6.png used on input line 252.
+<log_fig/retina1.jpg_fig6_4.png, id=245, 462.528pt x 346.896pt>
+File: log_fig/retina1.jpg_fig6_4.png Graphic file (type png)
+<use log_fig/retina1.jpg_fig6_4.png>
+Package pdftex.def Info: log_fig/retina1.jpg_fig6_4.png used on input line 246.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-252.
+246.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [12
 
- <./log_fig/retina2.jpg_fig5_5.png> <./log_fig/retina2.jpg_fig5_6.png> <./log_f
-ig/retina2.jpg_fig6_5.png> <./log_fig/retina2.jpg_fig6_6.png>] <log_fig/retina3
-.jpg_fig4_3.png, id=269, 462.528pt x 346.896pt>
-File: log_fig/retina3.jpg_fig4_3.png Graphic file (type png)
-<use log_fig/retina3.jpg_fig4_3.png>
-Package pdftex.def Info: log_fig/retina3.jpg_fig4_3.png used on input line 265.
+ <./log_fig/retina1.jpg_fig6_0.png> <./log_fig/retina1.jpg_fig6_4.png>] <log_fi
+g/retina2.jpg_fig5_5.png, id=261, 462.528pt x 346.896pt>
+File: log_fig/retina2.jpg_fig5_5.png Graphic file (type png)
+<use log_fig/retina2.jpg_fig5_5.png>
+Package pdftex.def Info: log_fig/retina2.jpg_fig5_5.png used on input line 259.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina3.jpg_fig4_7.png, id=270, 462.528pt x 346.896pt>
-File: log_fig/retina3.jpg_fig4_7.png Graphic file (type png)
-<use log_fig/retina3.jpg_fig4_7.png>
-Package pdftex.def Info: log_fig/retina3.jpg_fig4_7.png used on input line 265.
+<log_fig/retina2.jpg_fig5_6.png, id=262, 462.528pt x 346.896pt>
+File: log_fig/retina2.jpg_fig5_6.png Graphic file (type png)
+<use log_fig/retina2.jpg_fig5_6.png>
+Package pdftex.def Info: log_fig/retina2.jpg_fig5_6.png used on input line 259.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina3.jpg_fig6_3.png, id=271, 462.528pt x 346.896pt>
-File: log_fig/retina3.jpg_fig6_3.png Graphic file (type png)
-<use log_fig/retina3.jpg_fig6_3.png>
-Package pdftex.def Info: log_fig/retina3.jpg_fig6_3.png used on input line 265.
+<log_fig/retina2.jpg_fig6_5.png, id=263, 462.528pt x 346.896pt>
+File: log_fig/retina2.jpg_fig6_5.png Graphic file (type png)
+<use log_fig/retina2.jpg_fig6_5.png>
+Package pdftex.def Info: log_fig/retina2.jpg_fig6_5.png used on input line 259.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina3.jpg_fig6_7.png, id=272, 462.528pt x 346.896pt>
-File: log_fig/retina3.jpg_fig6_7.png Graphic file (type png)
-<use log_fig/retina3.jpg_fig6_7.png>
-Package pdftex.def Info: log_fig/retina3.jpg_fig6_7.png used on input line 265.
+<log_fig/retina2.jpg_fig6_6.png, id=264, 462.528pt x 346.896pt>
+File: log_fig/retina2.jpg_fig6_6.png Graphic file (type png)
+<use log_fig/retina2.jpg_fig6_6.png>
+Package pdftex.def Info: log_fig/retina2.jpg_fig6_6.png used on input line 259.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-265.
+259.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [13
 
- <./log_fig/retina3.jpg_fig4_3.png> <./log_fig/retina3.jpg_fig4_7.png> <./log_f
-ig/retina3.jpg_fig6_3.png> <./log_fig/retina3.jpg_fig6_7.png>] <log_fig/retina4
-.jpg_fig5_4.png, id=291, 462.528pt x 346.896pt>
-File: log_fig/retina4.jpg_fig5_4.png Graphic file (type png)
-<use log_fig/retina4.jpg_fig5_4.png>
-Package pdftex.def Info: log_fig/retina4.jpg_fig5_4.png used on input line 278.
+ <./log_fig/retina2.jpg_fig5_5.png> <./log_fig/retina2.jpg_fig5_6.png> <./log_f
+ig/retina2.jpg_fig6_5.png> <./log_fig/retina2.jpg_fig6_6.png>] <log_fig/retina3
+.jpg_fig4_3.png, id=283, 462.528pt x 346.896pt>
+File: log_fig/retina3.jpg_fig4_3.png Graphic file (type png)
+<use log_fig/retina3.jpg_fig4_3.png>
+Package pdftex.def Info: log_fig/retina3.jpg_fig4_3.png used on input line 272.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina4.jpg_fig5_8.png, id=292, 462.528pt x 346.896pt>
-File: log_fig/retina4.jpg_fig5_8.png Graphic file (type png)
-<use log_fig/retina4.jpg_fig5_8.png>
-Package pdftex.def Info: log_fig/retina4.jpg_fig5_8.png used on input line 278.
+<log_fig/retina3.jpg_fig4_7.png, id=284, 462.528pt x 346.896pt>
+File: log_fig/retina3.jpg_fig4_7.png Graphic file (type png)
+<use log_fig/retina3.jpg_fig4_7.png>
+Package pdftex.def Info: log_fig/retina3.jpg_fig4_7.png used on input line 272.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina4.jpg_fig6_4.png, id=293, 462.528pt x 346.896pt>
-File: log_fig/retina4.jpg_fig6_4.png Graphic file (type png)
-<use log_fig/retina4.jpg_fig6_4.png>
-Package pdftex.def Info: log_fig/retina4.jpg_fig6_4.png used on input line 278.
+<log_fig/retina3.jpg_fig6_3.png, id=285, 462.528pt x 346.896pt>
+File: log_fig/retina3.jpg_fig6_3.png Graphic file (type png)
+<use log_fig/retina3.jpg_fig6_3.png>
+Package pdftex.def Info: log_fig/retina3.jpg_fig6_3.png used on input line 272.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<log_fig/retina4.jpg_fig6_8.png, id=294, 462.528pt x 346.896pt>
-File: log_fig/retina4.jpg_fig6_8.png Graphic file (type png)
-<use log_fig/retina4.jpg_fig6_8.png>
-Package pdftex.def Info: log_fig/retina4.jpg_fig6_8.png used on input line 278.
+<log_fig/retina3.jpg_fig6_7.png, id=286, 462.528pt x 346.896pt>
+File: log_fig/retina3.jpg_fig6_7.png Graphic file (type png)
+<use log_fig/retina3.jpg_fig6_7.png>
+Package pdftex.def Info: log_fig/retina3.jpg_fig6_7.png used on input line 272.
 
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-278.
+272.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [14
 
- <./log_fig/retina4.jpg_fig5_4.png> <./log_fig/retina4.jpg_fig5_8.png> <./log_f
-ig/retina4.jpg_fig6_4.png> <./log_fig/retina4.jpg_fig6_8.png>] <canny_fig/retin
-a1.jpg_fig2_0.png, id=312, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig2_0.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig2_0.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig2_0.png used on input line 29
-2.
+ <./log_fig/retina3.jpg_fig4_3.png> <./log_fig/retina3.jpg_fig4_7.png> <./log_f
+ig/retina3.jpg_fig6_3.png> <./log_fig/retina3.jpg_fig6_7.png>] <log_fig/retina4
+.jpg_fig5_4.png, id=304, 462.528pt x 346.896pt>
+File: log_fig/retina4.jpg_fig5_4.png Graphic file (type png)
+<use log_fig/retina4.jpg_fig5_4.png>
+Package pdftex.def Info: log_fig/retina4.jpg_fig5_4.png used on input line 285.
+
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig2_4.png, id=313, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig2_4.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig2_4.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig2_4.png used on input line 29
-2.
+<log_fig/retina4.jpg_fig5_8.png, id=305, 462.528pt x 346.896pt>
+File: log_fig/retina4.jpg_fig5_8.png Graphic file (type png)
+<use log_fig/retina4.jpg_fig5_8.png>
+Package pdftex.def Info: log_fig/retina4.jpg_fig5_8.png used on input line 285.
+
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig3_0.png, id=314, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig3_0.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig3_0.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig3_0.png used on input line 29
-2.
+<log_fig/retina4.jpg_fig6_4.png, id=306, 462.528pt x 346.896pt>
+File: log_fig/retina4.jpg_fig6_4.png Graphic file (type png)
+<use log_fig/retina4.jpg_fig6_4.png>
+Package pdftex.def Info: log_fig/retina4.jpg_fig6_4.png used on input line 285.
+
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig3_4.png, id=315, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig3_4.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig3_4.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig3_4.png used on input line 29
-2.
+<log_fig/retina4.jpg_fig6_8.png, id=307, 462.528pt x 346.896pt>
+File: log_fig/retina4.jpg_fig6_8.png Graphic file (type png)
+<use log_fig/retina4.jpg_fig6_8.png>
+Package pdftex.def Info: log_fig/retina4.jpg_fig6_8.png used on input line 285.
+
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-292.
+285.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [15
 
- <./canny_fig/retina1.jpg_fig2_0.png> <./canny_fig/retina1.jpg_fig2_4.png> <./c
-anny_fig/retina1.jpg_fig3_0.png> <./canny_fig/retina1.jpg_fig3_4.png>] <canny_f
-ig/retina1.jpg_fig4_0.png, id=332, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig4_0.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig4_0.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig4_0.png used on input line 30
-5.
+ <./log_fig/retina4.jpg_fig5_4.png> <./log_fig/retina4.jpg_fig5_8.png> <./log_f
+ig/retina4.jpg_fig6_4.png> <./log_fig/retina4.jpg_fig6_8.png>] <canny_fig/retin
+a1.jpg_fig2_0.png, id=325, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig2_0.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig2_0.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig2_0.png used on input line 29
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig4_4.png, id=333, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig4_4.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig4_4.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig4_4.png used on input line 30
-5.
+<canny_fig/retina1.jpg_fig2_4.png, id=326, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig2_4.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig2_4.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig2_4.png used on input line 29
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig5_0.png, id=334, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig5_0.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig5_0.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig5_0.png used on input line 30
-5.
+<canny_fig/retina1.jpg_fig3_0.png, id=327, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig3_0.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig3_0.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig3_0.png used on input line 29
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina1.jpg_fig5_4.png, id=335, 462.528pt x 346.896pt>
-File: canny_fig/retina1.jpg_fig5_4.png Graphic file (type png)
-<use canny_fig/retina1.jpg_fig5_4.png>
-Package pdftex.def Info: canny_fig/retina1.jpg_fig5_4.png used on input line 30
-5.
+<canny_fig/retina1.jpg_fig3_4.png, id=328, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig3_4.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig3_4.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig3_4.png used on input line 29
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-305.
+299.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [16
 
- <./canny_fig/retina1.jpg_fig4_0.png> <./canny_fig/retina1.jpg_fig4_4.png> <./c
-anny_fig/retina1.jpg_fig5_0.png> <./canny_fig/retina1.jpg_fig5_4.png>] <canny_f
-ig/retina2.jpg_fig2_1.png, id=354, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig2_1.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig2_1.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig2_1.png used on input line 31
-8.
+ <./canny_fig/retina1.jpg_fig2_0.png> <./canny_fig/retina1.jpg_fig2_4.png> <./c
+anny_fig/retina1.jpg_fig3_0.png> <./canny_fig/retina1.jpg_fig3_4.png>] <canny_f
+ig/retina1.jpg_fig4_0.png, id=346, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig4_0.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig4_0.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig4_0.png used on input line 31
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig2_5.png, id=355, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig2_5.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig2_5.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig2_5.png used on input line 31
-8.
+<canny_fig/retina1.jpg_fig4_4.png, id=347, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig4_4.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig4_4.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig4_4.png used on input line 31
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig3_1.png, id=356, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig3_1.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig3_1.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig3_1.png used on input line 31
-8.
+<canny_fig/retina1.jpg_fig5_0.png, id=348, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig5_0.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig5_0.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig5_0.png used on input line 31
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig3_5.png, id=357, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig3_5.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig3_5.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig3_5.png used on input line 31
-8.
+<canny_fig/retina1.jpg_fig5_4.png, id=349, 462.528pt x 346.896pt>
+File: canny_fig/retina1.jpg_fig5_4.png Graphic file (type png)
+<use canny_fig/retina1.jpg_fig5_4.png>
+Package pdftex.def Info: canny_fig/retina1.jpg_fig5_4.png used on input line 31
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-318.
+312.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [17
 
- <./canny_fig/retina2.jpg_fig2_1.png> <./canny_fig/retina2.jpg_fig2_5.png> <./c
-anny_fig/retina2.jpg_fig3_1.png> <./canny_fig/retina2.jpg_fig3_5.png>] <canny_f
-ig/retina2.jpg_fig4_1.png, id=375, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig4_1.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig4_1.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig4_1.png used on input line 33
-1.
+ <./canny_fig/retina1.jpg_fig4_0.png> <./canny_fig/retina1.jpg_fig4_4.png> <./c
+anny_fig/retina1.jpg_fig5_0.png> <./canny_fig/retina1.jpg_fig5_4.png>] <canny_f
+ig/retina2.jpg_fig2_1.png, id=367, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig2_1.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig2_1.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig2_1.png used on input line 32
+5.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig4_5.png, id=376, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig4_5.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig4_5.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig4_5.png used on input line 33
-1.
+<canny_fig/retina2.jpg_fig2_5.png, id=368, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig2_5.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig2_5.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig2_5.png used on input line 32
+5.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig5_1.png, id=377, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig5_1.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig5_1.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig5_1.png used on input line 33
-1.
+<canny_fig/retina2.jpg_fig3_1.png, id=369, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig3_1.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig3_1.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig3_1.png used on input line 32
+5.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina2.jpg_fig5_5.png, id=378, 462.528pt x 346.896pt>
-File: canny_fig/retina2.jpg_fig5_5.png Graphic file (type png)
-<use canny_fig/retina2.jpg_fig5_5.png>
-Package pdftex.def Info: canny_fig/retina2.jpg_fig5_5.png used on input line 33
-1.
+<canny_fig/retina2.jpg_fig3_5.png, id=370, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig3_5.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig3_5.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig3_5.png used on input line 32
+5.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-331.
+325.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [18
 
- <./canny_fig/retina2.jpg_fig4_1.png> <./canny_fig/retina2.jpg_fig4_5.png> <./c
-anny_fig/retina2.jpg_fig5_1.png> <./canny_fig/retina2.jpg_fig5_5.png>] <canny_f
-ig/retina3.jpg_fig2_2.png, id=396, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig2_2.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig2_2.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig2_2.png used on input line 34
-6.
+ <./canny_fig/retina2.jpg_fig2_1.png> <./canny_fig/retina2.jpg_fig2_5.png> <./c
+anny_fig/retina2.jpg_fig3_1.png> <./canny_fig/retina2.jpg_fig3_5.png>] <canny_f
+ig/retina2.jpg_fig4_1.png, id=388, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig4_1.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig4_1.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig4_1.png used on input line 33
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig2_6.png, id=397, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig2_6.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig2_6.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig2_6.png used on input line 34
-6.
+<canny_fig/retina2.jpg_fig4_5.png, id=389, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig4_5.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig4_5.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig4_5.png used on input line 33
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig3_2.png, id=398, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig3_2.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig3_2.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig3_2.png used on input line 34
-6.
+<canny_fig/retina2.jpg_fig5_1.png, id=390, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig5_1.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig5_1.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig5_1.png used on input line 33
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig3_6.png, id=399, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig3_6.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig3_6.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig3_6.png used on input line 34
-6.
+<canny_fig/retina2.jpg_fig5_5.png, id=391, 462.528pt x 346.896pt>
+File: canny_fig/retina2.jpg_fig5_5.png Graphic file (type png)
+<use canny_fig/retina2.jpg_fig5_5.png>
+Package pdftex.def Info: canny_fig/retina2.jpg_fig5_5.png used on input line 33
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-346.
+338.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [19
 
- <./canny_fig/retina3.jpg_fig2_2.png> <./canny_fig/retina3.jpg_fig2_6.png> <./c
-anny_fig/retina3.jpg_fig3_2.png> <./canny_fig/retina3.jpg_fig3_6.png>] <canny_f
-ig/retina3.jpg_fig4_2.png, id=418, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig4_2.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig4_2.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig4_2.png used on input line 35
-9.
+ <./canny_fig/retina2.jpg_fig4_1.png> <./canny_fig/retina2.jpg_fig4_5.png> <./c
+anny_fig/retina2.jpg_fig5_1.png> <./canny_fig/retina2.jpg_fig5_5.png>] <canny_f
+ig/retina3.jpg_fig2_2.png, id=410, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig2_2.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig2_2.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig2_2.png used on input line 35
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig4_6.png, id=419, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig4_6.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig4_6.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig4_6.png used on input line 35
-9.
+<canny_fig/retina3.jpg_fig2_6.png, id=411, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig2_6.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig2_6.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig2_6.png used on input line 35
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig5_2.png, id=420, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig5_2.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig5_2.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig5_2.png used on input line 35
-9.
+<canny_fig/retina3.jpg_fig3_2.png, id=412, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig3_2.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig3_2.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig3_2.png used on input line 35
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina3.jpg_fig5_6.png, id=421, 462.528pt x 346.896pt>
-File: canny_fig/retina3.jpg_fig5_6.png Graphic file (type png)
-<use canny_fig/retina3.jpg_fig5_6.png>
-Package pdftex.def Info: canny_fig/retina3.jpg_fig5_6.png used on input line 35
-9.
+<canny_fig/retina3.jpg_fig3_6.png, id=413, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig3_6.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig3_6.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig3_6.png used on input line 35
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-359.
+353.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [20
 
- <./canny_fig/retina3.jpg_fig4_2.png> <./canny_fig/retina3.jpg_fig4_6.png> <./c
-anny_fig/retina3.jpg_fig5_2.png> <./canny_fig/retina3.jpg_fig5_6.png>] <canny_f
-ig/retina4.jpg_fig2_3.png, id=439, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig2_3.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig2_3.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig2_3.png used on input line 37
-2.
+ <./canny_fig/retina3.jpg_fig2_2.png> <./canny_fig/retina3.jpg_fig2_6.png> <./c
+anny_fig/retina3.jpg_fig3_2.png> <./canny_fig/retina3.jpg_fig3_6.png>] <canny_f
+ig/retina3.jpg_fig4_2.png, id=431, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig4_2.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig4_2.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig4_2.png used on input line 36
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig2_7.png, id=440, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig2_7.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig2_7.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig2_7.png used on input line 37
-2.
+<canny_fig/retina3.jpg_fig4_6.png, id=432, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig4_6.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig4_6.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig4_6.png used on input line 36
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig3_3.png, id=441, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig3_3.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig3_3.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig3_3.png used on input line 37
-2.
+<canny_fig/retina3.jpg_fig5_2.png, id=433, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig5_2.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig5_2.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig5_2.png used on input line 36
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig3_7.png, id=442, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig3_7.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig3_7.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig3_7.png used on input line 37
-2.
+<canny_fig/retina3.jpg_fig5_6.png, id=434, 462.528pt x 346.896pt>
+File: canny_fig/retina3.jpg_fig5_6.png Graphic file (type png)
+<use canny_fig/retina3.jpg_fig5_6.png>
+Package pdftex.def Info: canny_fig/retina3.jpg_fig5_6.png used on input line 36
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-372.
+366.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [21
 
- <./canny_fig/retina4.jpg_fig2_3.png> <./canny_fig/retina4.jpg_fig2_7.png> <./c
-anny_fig/retina4.jpg_fig3_3.png> <./canny_fig/retina4.jpg_fig3_7.png>] <canny_f
-ig/retina4.jpg_fig4_3.png, id=460, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig4_3.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig4_3.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig4_3.png used on input line 38
-5.
+ <./canny_fig/retina3.jpg_fig4_2.png> <./canny_fig/retina3.jpg_fig4_6.png> <./c
+anny_fig/retina3.jpg_fig5_2.png> <./canny_fig/retina3.jpg_fig5_6.png>] <canny_f
+ig/retina4.jpg_fig2_3.png, id=452, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig2_3.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig2_3.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig2_3.png used on input line 37
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig4_7.png, id=461, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig4_7.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig4_7.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig4_7.png used on input line 38
-5.
+<canny_fig/retina4.jpg_fig2_7.png, id=453, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig2_7.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig2_7.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig2_7.png used on input line 37
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig5_3.png, id=462, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig5_3.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig5_3.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig5_3.png used on input line 38
-5.
+<canny_fig/retina4.jpg_fig3_3.png, id=454, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig3_3.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig3_3.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig3_3.png used on input line 37
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<canny_fig/retina4.jpg_fig5_7.png, id=463, 462.528pt x 346.896pt>
-File: canny_fig/retina4.jpg_fig5_7.png Graphic file (type png)
-<use canny_fig/retina4.jpg_fig5_7.png>
-Package pdftex.def Info: canny_fig/retina4.jpg_fig5_7.png used on input line 38
-5.
+<canny_fig/retina4.jpg_fig3_7.png, id=455, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig3_7.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig3_7.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig3_7.png used on input line 37
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-385.
+379.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [22
 
- <./canny_fig/retina4.jpg_fig4_3.png> <./canny_fig/retina4.jpg_fig4_7.png> <./c
-anny_fig/retina4.jpg_fig5_3.png> <./canny_fig/retina4.jpg_fig5_7.png>] <match_f
-ig/retina1.jpg_fig1_0.png, id=481, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig1_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig1_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig1_0.png used on input line 39
-9.
+ <./canny_fig/retina4.jpg_fig2_3.png> <./canny_fig/retina4.jpg_fig2_7.png> <./c
+anny_fig/retina4.jpg_fig3_3.png> <./canny_fig/retina4.jpg_fig3_7.png>] <canny_f
+ig/retina4.jpg_fig4_3.png, id=473, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig4_3.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig4_3.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig4_3.png used on input line 39
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig1_4.png, id=482, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig1_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig1_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig1_4.png used on input line 39
-9.
+<canny_fig/retina4.jpg_fig4_7.png, id=474, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig4_7.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig4_7.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig4_7.png used on input line 39
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig3_0.png, id=483, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig3_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig3_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig3_0.png used on input line 39
-9.
+<canny_fig/retina4.jpg_fig5_3.png, id=475, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig5_3.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig5_3.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig5_3.png used on input line 39
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig3_4.png, id=484, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig3_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig3_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig3_4.png used on input line 39
-9.
+<canny_fig/retina4.jpg_fig5_7.png, id=476, 462.528pt x 346.896pt>
+File: canny_fig/retina4.jpg_fig5_7.png Graphic file (type png)
+<use canny_fig/retina4.jpg_fig5_7.png>
+Package pdftex.def Info: canny_fig/retina4.jpg_fig5_7.png used on input line 39
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-399.
+392.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [23
 
- <./match_fig/retina1.jpg_fig1_0.png> <./match_fig/retina1.jpg_fig1_4.png> <./m
-atch_fig/retina1.jpg_fig3_0.png> <./match_fig/retina1.jpg_fig3_4.png>] <match_f
-ig/retina1.jpg_fig4_0.png, id=501, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig4_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig4_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig4_0.png used on input line 41
-2.
+ <./canny_fig/retina4.jpg_fig4_3.png> <./canny_fig/retina4.jpg_fig4_7.png> <./c
+anny_fig/retina4.jpg_fig5_3.png> <./canny_fig/retina4.jpg_fig5_7.png>] <match_f
+ig/retina1.jpg_fig1_0.png, id=494, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig1_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig1_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig1_0.png used on input line 40
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig4_4.png, id=502, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig4_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig4_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig4_4.png used on input line 41
-2.
+<match_fig/retina1.jpg_fig1_4.png, id=495, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig1_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig1_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig1_4.png used on input line 40
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig5_0.png, id=503, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig5_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig5_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig5_0.png used on input line 41
-2.
+<match_fig/retina1.jpg_fig3_0.png, id=496, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig3_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig3_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig3_0.png used on input line 40
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig5_4.png, id=504, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig5_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig5_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig5_4.png used on input line 41
-2.
+<match_fig/retina1.jpg_fig3_4.png, id=497, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig3_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig3_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig3_4.png used on input line 40
+6.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-412.
+406.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [24
 
- <./match_fig/retina1.jpg_fig4_0.png> <./match_fig/retina1.jpg_fig4_4.png> <./m
-atch_fig/retina1.jpg_fig5_0.png> <./match_fig/retina1.jpg_fig5_4.png>] <match_f
-ig/retina1.jpg_fig6_0.png, id=523, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig6_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig6_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig6_0.png used on input line 42
-5.
+ <./match_fig/retina1.jpg_fig1_0.png> <./match_fig/retina1.jpg_fig1_4.png> <./m
+atch_fig/retina1.jpg_fig3_0.png> <./match_fig/retina1.jpg_fig3_4.png>] <match_f
+ig/retina1.jpg_fig4_0.png, id=515, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig4_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig4_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig4_0.png used on input line 41
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig6_4.png, id=524, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig6_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig6_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig6_4.png used on input line 42
-5.
+<match_fig/retina1.jpg_fig4_4.png, id=516, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig4_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig4_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig4_4.png used on input line 41
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig7_0.png, id=525, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig7_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig7_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig7_0.png used on input line 42
-5.
+<match_fig/retina1.jpg_fig5_0.png, id=517, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig5_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig5_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig5_0.png used on input line 41
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig7_4.png, id=526, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig7_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig7_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig7_4.png used on input line 42
-5.
+<match_fig/retina1.jpg_fig5_4.png, id=518, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig5_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig5_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig5_4.png used on input line 41
+9.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-425.
+419.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [25
 
- <./match_fig/retina1.jpg_fig6_0.png> <./match_fig/retina1.jpg_fig6_4.png> <./m
-atch_fig/retina1.jpg_fig7_0.png> <./match_fig/retina1.jpg_fig7_4.png>] <match_f
-ig/retina1.jpg_fig8_0.png, id=545, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig8_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig8_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig8_0.png used on input line 43
-8.
+ <./match_fig/retina1.jpg_fig4_0.png> <./match_fig/retina1.jpg_fig4_4.png> <./m
+atch_fig/retina1.jpg_fig5_0.png> <./match_fig/retina1.jpg_fig5_4.png>] <match_f
+ig/retina1.jpg_fig6_0.png, id=537, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig6_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig6_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig6_0.png used on input line 43
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig8_4.png, id=546, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig8_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig8_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig8_4.png used on input line 43
-8.
+<match_fig/retina1.jpg_fig6_4.png, id=538, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig6_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig6_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig6_4.png used on input line 43
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig9_0.png, id=547, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig9_0.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig9_0.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig9_0.png used on input line 43
-8.
+<match_fig/retina1.jpg_fig7_0.png, id=539, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig7_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig7_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig7_0.png used on input line 43
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina1.jpg_fig9_4.png, id=548, 462.528pt x 346.896pt>
-File: match_fig/retina1.jpg_fig9_4.png Graphic file (type png)
-<use match_fig/retina1.jpg_fig9_4.png>
-Package pdftex.def Info: match_fig/retina1.jpg_fig9_4.png used on input line 43
-8.
+<match_fig/retina1.jpg_fig7_4.png, id=540, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig7_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig7_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig7_4.png used on input line 43
+2.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-438.
+432.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [26
+
+ <./match_fig/retina1.jpg_fig6_0.png> <./match_fig/retina1.jpg_fig6_4.png> <./m
+atch_fig/retina1.jpg_fig7_0.png> <./match_fig/retina1.jpg_fig7_4.png>] <match_f
+ig/retina1.jpg_fig8_0.png, id=558, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig8_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig8_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig8_0.png used on input line 44
+5.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina1.jpg_fig8_4.png, id=559, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig8_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig8_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig8_4.png used on input line 44
+5.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina1.jpg_fig9_0.png, id=560, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig9_0.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig9_0.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig9_0.png used on input line 44
+5.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina1.jpg_fig9_4.png, id=561, 462.528pt x 346.896pt>
+File: match_fig/retina1.jpg_fig9_4.png Graphic file (type png)
+<use match_fig/retina1.jpg_fig9_4.png>
+Package pdftex.def Info: match_fig/retina1.jpg_fig9_4.png used on input line 44
+5.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+File: Oklahoma_State_University_logo.png Graphic file (type png)
+<use Oklahoma_State_University_logo.png>
+Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
+445.
+(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
+[27
 
  <./match_fig/retina1.jpg_fig8_0.png> <./match_fig/retina1.jpg_fig8_4.png> <./m
 atch_fig/retina1.jpg_fig9_0.png> <./match_fig/retina1.jpg_fig9_4.png>]
 File: match_fig/retina1.jpg_fig6_0.png Graphic file (type png)
 <use match_fig/retina1.jpg_fig6_0.png>
 Package pdftex.def Info: match_fig/retina1.jpg_fig6_0.png used on input line 45
-1.
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: match_fig/retina1.jpg_fig6_4.png Graphic file (type png)
 <use match_fig/retina1.jpg_fig6_4.png>
 Package pdftex.def Info: match_fig/retina1.jpg_fig6_4.png used on input line 45
-1.
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: match_fig/retina1.jpg_fig7_0.png Graphic file (type png)
 <use match_fig/retina1.jpg_fig7_0.png>
 Package pdftex.def Info: match_fig/retina1.jpg_fig7_0.png used on input line 45
-1.
+8.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: match_fig/retina1.jpg_fig7_4.png Graphic file (type png)
 <use match_fig/retina1.jpg_fig7_4.png>
 Package pdftex.def Info: match_fig/retina1.jpg_fig7_4.png used on input line 45
+8.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+File: Oklahoma_State_University_logo.png Graphic file (type png)
+<use Oklahoma_State_University_logo.png>
+Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
+458.
+(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
+[28
+
+] <match_fig/retina2.jpg_fig5_1.png, id=592, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig5_1.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig5_1.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig5_1.png used on input line 47
+1.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina2.jpg_fig5_5.png, id=593, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig5_5.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig5_5.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig5_5.png used on input line 47
+1.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina2.jpg_fig6_1.png, id=594, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig6_1.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig6_1.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig6_1.png used on input line 47
+1.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina2.jpg_fig6_5.png, id=595, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig6_5.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig6_5.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig6_5.png used on input line 47
 1.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-451.
-(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
-[27
-
-] <match_fig/retina2.jpg_fig5_1.png, id=579, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig5_1.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig5_1.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig5_1.png used on input line 46
-4.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig5_5.png, id=580, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig5_5.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig5_5.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig5_5.png used on input line 46
-4.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig6_1.png, id=581, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig6_1.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig6_1.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig6_1.png used on input line 46
-4.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig6_5.png, id=582, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig6_5.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig6_5.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig6_5.png used on input line 46
-4.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-File: Oklahoma_State_University_logo.png Graphic file (type png)
-<use Oklahoma_State_University_logo.png>
-Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-464.
-(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
-[28
-
- <./match_fig/retina2.jpg_fig5_1.png> <./match_fig/retina2.jpg_fig5_5.png> <./m
-atch_fig/retina2.jpg_fig6_1.png> <./match_fig/retina2.jpg_fig6_5.png>] <match_f
-ig/retina2.jpg_fig8_1.png, id=600, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig8_1.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig8_1.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig8_1.png used on input line 47
-7.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig8_5.png, id=601, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig8_5.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig8_5.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig8_5.png used on input line 47
-7.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig9_1.png, id=602, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig9_1.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig9_1.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig9_1.png used on input line 47
-7.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina2.jpg_fig9_5.png, id=603, 462.528pt x 346.896pt>
-File: match_fig/retina2.jpg_fig9_5.png Graphic file (type png)
-<use match_fig/retina2.jpg_fig9_5.png>
-Package pdftex.def Info: match_fig/retina2.jpg_fig9_5.png used on input line 47
-7.
-(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-File: Oklahoma_State_University_logo.png Graphic file (type png)
-<use Oklahoma_State_University_logo.png>
-Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-477.
+471.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [29
 
- <./match_fig/retina2.jpg_fig8_1.png> <./match_fig/retina2.jpg_fig8_5.png> <./m
-atch_fig/retina2.jpg_fig9_1.png> <./match_fig/retina2.jpg_fig9_5.png>] <match_f
-ig/retina3.jpg_fig5_2.png, id=621, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig5_2.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig5_2.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig5_2.png used on input line 49
-0.
+ <./match_fig/retina2.jpg_fig5_1.png> <./match_fig/retina2.jpg_fig5_5.png> <./m
+atch_fig/retina2.jpg_fig6_1.png> <./match_fig/retina2.jpg_fig6_5.png>] <match_f
+ig/retina2.jpg_fig8_1.png, id=613, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig8_1.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig8_1.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig8_1.png used on input line 48
+4.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig5_6.png, id=622, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig5_6.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig5_6.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig5_6.png used on input line 49
-0.
+<match_fig/retina2.jpg_fig8_5.png, id=614, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig8_5.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig8_5.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig8_5.png used on input line 48
+4.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig6_2.png, id=623, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig6_2.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig6_2.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig6_2.png used on input line 49
-0.
+<match_fig/retina2.jpg_fig9_1.png, id=615, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig9_1.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig9_1.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig9_1.png used on input line 48
+4.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig6_6.png, id=624, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig6_6.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig6_6.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig6_6.png used on input line 49
-0.
+<match_fig/retina2.jpg_fig9_5.png, id=616, 462.528pt x 346.896pt>
+File: match_fig/retina2.jpg_fig9_5.png Graphic file (type png)
+<use match_fig/retina2.jpg_fig9_5.png>
+Package pdftex.def Info: match_fig/retina2.jpg_fig9_5.png used on input line 48
+4.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-490.
+484.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [30
 
- <./match_fig/retina3.jpg_fig5_2.png> <./match_fig/retina3.jpg_fig5_6.png> <./m
-atch_fig/retina3.jpg_fig6_2.png> <./match_fig/retina3.jpg_fig6_6.png>] <match_f
-ig/retina3.jpg_fig8_2.png, id=642, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig8_2.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig8_2.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig8_2.png used on input line 50
-3.
+ <./match_fig/retina2.jpg_fig8_1.png> <./match_fig/retina2.jpg_fig8_5.png> <./m
+atch_fig/retina2.jpg_fig9_1.png> <./match_fig/retina2.jpg_fig9_5.png>] <match_f
+ig/retina3.jpg_fig5_2.png, id=634, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig5_2.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig5_2.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig5_2.png used on input line 49
+7.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig8_6.png, id=643, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig8_6.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig8_6.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig8_6.png used on input line 50
-3.
+<match_fig/retina3.jpg_fig5_6.png, id=635, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig5_6.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig5_6.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig5_6.png used on input line 49
+7.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig9_2.png, id=644, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig9_2.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig9_2.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig9_2.png used on input line 50
-3.
+<match_fig/retina3.jpg_fig6_2.png, id=636, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig6_2.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig6_2.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig6_2.png used on input line 49
+7.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina3.jpg_fig9_6.png, id=645, 462.528pt x 346.896pt>
-File: match_fig/retina3.jpg_fig9_6.png Graphic file (type png)
-<use match_fig/retina3.jpg_fig9_6.png>
-Package pdftex.def Info: match_fig/retina3.jpg_fig9_6.png used on input line 50
-3.
+<match_fig/retina3.jpg_fig6_6.png, id=637, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig6_6.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig6_6.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig6_6.png used on input line 49
+7.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-503.
+497.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [31
 
- <./match_fig/retina3.jpg_fig8_2.png> <./match_fig/retina3.jpg_fig8_6.png> <./m
-atch_fig/retina3.jpg_fig9_2.png> <./match_fig/retina3.jpg_fig9_6.png>] <match_f
-ig/retina4.jpg_fig5_3.png, id=664, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig5_3.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig5_3.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig5_3.png used on input line 51
-6.
+ <./match_fig/retina3.jpg_fig5_2.png> <./match_fig/retina3.jpg_fig5_6.png> <./m
+atch_fig/retina3.jpg_fig6_2.png> <./match_fig/retina3.jpg_fig6_6.png>] <match_f
+ig/retina3.jpg_fig8_2.png, id=656, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig8_2.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig8_2.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig8_2.png used on input line 51
+0.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig5_7.png, id=665, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig5_7.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig5_7.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig5_7.png used on input line 51
-6.
+<match_fig/retina3.jpg_fig8_6.png, id=657, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig8_6.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig8_6.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig8_6.png used on input line 51
+0.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig6_3.png, id=666, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig6_3.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig6_3.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig6_3.png used on input line 51
-6.
+<match_fig/retina3.jpg_fig9_2.png, id=658, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig9_2.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig9_2.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig9_2.png used on input line 51
+0.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig6_7.png, id=667, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig6_7.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig6_7.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig6_7.png used on input line 51
-6.
+<match_fig/retina3.jpg_fig9_6.png, id=659, 462.528pt x 346.896pt>
+File: match_fig/retina3.jpg_fig9_6.png Graphic file (type png)
+<use match_fig/retina3.jpg_fig9_6.png>
+Package pdftex.def Info: match_fig/retina3.jpg_fig9_6.png used on input line 51
+0.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-516.
+510.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [32
 
- <./match_fig/retina4.jpg_fig5_3.png> <./match_fig/retina4.jpg_fig5_7.png> <./m
-atch_fig/retina4.jpg_fig6_3.png> <./match_fig/retina4.jpg_fig6_7.png>] <match_f
-ig/retina4.jpg_fig8_3.png, id=686, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig8_3.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig8_3.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig8_3.png used on input line 52
-9.
+ <./match_fig/retina3.jpg_fig8_2.png> <./match_fig/retina3.jpg_fig8_6.png> <./m
+atch_fig/retina3.jpg_fig9_2.png> <./match_fig/retina3.jpg_fig9_6.png>] <match_f
+ig/retina4.jpg_fig5_3.png, id=678, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig5_3.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig5_3.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig5_3.png used on input line 52
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig8_7.png, id=687, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig8_7.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig8_7.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig8_7.png used on input line 52
-9.
+<match_fig/retina4.jpg_fig5_7.png, id=679, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig5_7.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig5_7.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig5_7.png used on input line 52
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig9_3.png, id=688, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig9_3.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig9_3.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig9_3.png used on input line 52
-9.
+<match_fig/retina4.jpg_fig6_3.png, id=680, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig6_3.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig6_3.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig6_3.png used on input line 52
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
-<match_fig/retina4.jpg_fig9_7.png, id=689, 462.528pt x 346.896pt>
-File: match_fig/retina4.jpg_fig9_7.png Graphic file (type png)
-<use match_fig/retina4.jpg_fig9_7.png>
-Package pdftex.def Info: match_fig/retina4.jpg_fig9_7.png used on input line 52
-9.
+<match_fig/retina4.jpg_fig6_7.png, id=681, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig6_7.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig6_7.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig6_7.png used on input line 52
+3.
 (pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-529.
+523.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
 [33
+
+ <./match_fig/retina4.jpg_fig5_3.png> <./match_fig/retina4.jpg_fig5_7.png> <./m
+atch_fig/retina4.jpg_fig6_3.png> <./match_fig/retina4.jpg_fig6_7.png>] <match_f
+ig/retina4.jpg_fig8_3.png, id=699, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig8_3.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig8_3.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig8_3.png used on input line 53
+6.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina4.jpg_fig8_7.png, id=700, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig8_7.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig8_7.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig8_7.png used on input line 53
+6.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina4.jpg_fig9_3.png, id=701, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig9_3.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig9_3.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig9_3.png used on input line 53
+6.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+<match_fig/retina4.jpg_fig9_7.png, id=702, 462.528pt x 346.896pt>
+File: match_fig/retina4.jpg_fig9_7.png Graphic file (type png)
+<use match_fig/retina4.jpg_fig9_7.png>
+Package pdftex.def Info: match_fig/retina4.jpg_fig9_7.png used on input line 53
+6.
+(pdftex.def)             Requested size: 130.83377pt x 109.59041pt.
+File: Oklahoma_State_University_logo.png Graphic file (type png)
+<use Oklahoma_State_University_logo.png>
+Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
+536.
+(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
+[34
 
  <./match_fig/retina4.jpg_fig8_3.png> <./match_fig/retina4.jpg_fig8_7.png> <./m
 atch_fig/retina4.jpg_fig9_3.png> <./match_fig/retina4.jpg_fig9_7.png>]
 File: log_fig/retina1.jpg_fig6_4.png Graphic file (type png)
 <use log_fig/retina1.jpg_fig6_4.png>
-Package pdftex.def Info: log_fig/retina1.jpg_fig6_4.png used on input line 551.
+Package pdftex.def Info: log_fig/retina1.jpg_fig6_4.png used on input line 558.
 
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: canny_fig/retina1.jpg_fig5_0.png Graphic file (type png)
 <use canny_fig/retina1.jpg_fig5_0.png>
 Package pdftex.def Info: canny_fig/retina1.jpg_fig5_0.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: match_fig/retina1.jpg_fig9_0.png Graphic file (type png)
 <use match_fig/retina1.jpg_fig9_0.png>
 Package pdftex.def Info: match_fig/retina1.jpg_fig9_0.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: log_fig/retina2.jpg_fig6_5.png Graphic file (type png)
 <use log_fig/retina2.jpg_fig6_5.png>
-Package pdftex.def Info: log_fig/retina2.jpg_fig6_5.png used on input line 551.
+Package pdftex.def Info: log_fig/retina2.jpg_fig6_5.png used on input line 558.
 
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: canny_fig/retina2.jpg_fig5_1.png Graphic file (type png)
 <use canny_fig/retina2.jpg_fig5_1.png>
 Package pdftex.def Info: canny_fig/retina2.jpg_fig5_1.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: match_fig/retina2.jpg_fig9_1.png Graphic file (type png)
 <use match_fig/retina2.jpg_fig9_1.png>
 Package pdftex.def Info: match_fig/retina2.jpg_fig9_1.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: log_fig/retina3.jpg_fig6_3.png Graphic file (type png)
 <use log_fig/retina3.jpg_fig6_3.png>
-Package pdftex.def Info: log_fig/retina3.jpg_fig6_3.png used on input line 551.
+Package pdftex.def Info: log_fig/retina3.jpg_fig6_3.png used on input line 558.
 
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: canny_fig/retina3.jpg_fig5_2.png Graphic file (type png)
 <use canny_fig/retina3.jpg_fig5_2.png>
 Package pdftex.def Info: canny_fig/retina3.jpg_fig5_2.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: match_fig/retina3.jpg_fig9_6.png Graphic file (type png)
 <use match_fig/retina3.jpg_fig9_6.png>
 Package pdftex.def Info: match_fig/retina3.jpg_fig9_6.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: log_fig/retina4.jpg_fig6_8.png Graphic file (type png)
 <use log_fig/retina4.jpg_fig6_8.png>
-Package pdftex.def Info: log_fig/retina4.jpg_fig6_8.png used on input line 551.
+Package pdftex.def Info: log_fig/retina4.jpg_fig6_8.png used on input line 558.
 
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: canny_fig/retina4.jpg_fig5_3.png Graphic file (type png)
 <use canny_fig/retina4.jpg_fig5_3.png>
 Package pdftex.def Info: canny_fig/retina4.jpg_fig5_3.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 File: match_fig/retina4.jpg_fig9_7.png Graphic file (type png)
 <use match_fig/retina4.jpg_fig9_7.png>
 Package pdftex.def Info: match_fig/retina4.jpg_fig9_7.png used on input line 55
-1.
+8.
 (pdftex.def)             Requested size: 81.40234pt x 58.44751pt.
 
-Overfull \vbox (4.72148pt too high) detected at line 551
+Overfull \vbox (4.72148pt too high) detected at line 558
  []
 
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-551.
+558.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
-[34
+[35
 
 ]
 File: Oklahoma_State_University_logo.png Graphic file (type png)
 <use Oklahoma_State_University_logo.png>
 Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
-568.
+569.
 (pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
-[35
+[36
+
+]
+File: Oklahoma_State_University_logo.png Graphic file (type png)
+<use Oklahoma_State_University_logo.png>
+Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line 
+580.
+(pdftex.def)             Requested size: 28.45274pt x 18.45561pt.
+[37
 
 ]
 \tf@nav=\write7
@@ -2831,24 +2847,24 @@ Package pdftex.def Info: Oklahoma_State_University_logo.png used on input line
 \tf@snm=\write9
 \openout9 = `report_mahi_2.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
 (Output/report_mahi_2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 586.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
 Package rerunfilecheck Info: File `report_mahi_2.out' has not changed.
-(rerunfilecheck)             Checksum: D0195986EE52C39C64A2D5230859E457;365.
+(rerunfilecheck)             Checksum: EA654425064EA46D63BE42E478796CC5;365.
 Package logreq Info: Writing requests to 'report_mahi_2.run.xml'.
 \openout1 = `report_mahi_2.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 586.
  )
 (\end occurred when \iftrue on line 52 was incomplete) 
 Here is how much of TeX's memory you used:
- 39695 strings out of 493029
- 931810 string characters out of 6136235
- 1214806 words of memory out of 5000000
- 42329 multiletter control sequences out of 15000+600000
+ 39704 strings out of 493029
+ 931898 string characters out of 6136235
+ 1214807 words of memory out of 5000000
+ 42334 multiletter control sequences out of 15000+600000
  47265 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,20n,83p,1137b,1430s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2865,10 +2881,10 @@ type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
 e1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/marvosym/marvosym.pfb>
-Output written on Output/report_mahi_2.pdf (35 pages, 15328228 bytes).
+Output written on Output/report_mahi_2.pdf (37 pages, 15181274 bytes).
 PDF statistics:
- 798 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 825 PDF objects out of 1000 (max. 8388607)
+ 543 compressed objects within 6 object streams
+ 82 named destinations out of 1000 (max. 500000)
  730 words of extra memory for PDF output out of 10000 (max. 10000000)
 
