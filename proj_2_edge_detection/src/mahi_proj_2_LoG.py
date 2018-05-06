@@ -95,7 +95,7 @@ def LoG(path='retina1.jpg', k=2, sigma=0.5, threshold = 1000, N = 120, neighbor=
     for i, j in pixels:
         if i==0 or j==0 or i==r-1 or j==c-1: continue
         if (
-                # np.isclose(conv_img[i,j], 0., atol=0.0001) and  # gives bad result when this condition is applied
+                # np.isclose(conv_img[j,k], 0., atol=0.0001) and  # gives bad result when this condition is applied
                    (conv_img[i-1, j-1] * conv_img[i+1, j+1] < 0 and np.abs(conv_img[i-1, j-1] * conv_img[i+1, j+1]) >= threshold) \
                 or (conv_img[i-1, j-0] * conv_img[i+1, j+0] < 0 and np.abs(conv_img[i-1, j-0] * conv_img[i+1, j+0]) >= threshold) \
                 or (conv_img[i-1, j+1] * conv_img[i+1, j-1] < 0 and np.abs(conv_img[i-1, j+1] * conv_img[i+1, j-1]) >= threshold) \
