@@ -1,0 +1,198 @@
+
+
+%\usepackage{epsfig,amsmath,amsfonts,euscript,times,harvard,color,fancyhdr,float}
+
+\def\bias {{\rm Bias}}
+
+\def\ev {{\rm E}}
+
+\def\EPE{{\rm EPE}}
+
+\def\argmax {{\rm argmax}}
+
+\def\Ave{{\rm Ave}}
+
+\def\cov {{\rm Cov}}
+
+\def\var {{\rm Var}}
+
+\def\mse {{\rm Mse}}
+
+\def\bX {{\bf X}}
+
+\def\bx {{\bf x}}
+
+\def\Pr{{\rm Pr}}
+
+%\renewcommand{\headrulewidth}{0pt}
+
+\textwidth=9in
+
+%\hypersetup{backref,%
+
+% pdfpagemode=text,%
+
+% co%lorlinks=true,
+
+% linkcolor=green,
+
+%baseurl=http://www-stat.stanford.edu/\string~hastie/Printer/315-LECTURES/%
+
+%}
+
+%\pagestyle{fancy}
+\def\printlandscape{\special{landscape}}
+
+% \begin{document}
+
+%\newcommand{\RED}{\textcolor{red}{RED}}
+
+%\newcommand{\GREEN}{\textcolor[rgb]{0,.8,0}{GREEN}}
+
+%\newcommand{\gem}{\color[rgb]{0,.8,0}\em}
+
+%\def\RED{\Co{\color{red}RED}}
+
+%\def\GREEN{\Co{\color{green}GREEN}}
+
+\newcommand{\gem}{}
+
+\def\RED{}
+
+\def\GREEN{}
+
+\thispagestyle{empty}
+
+\begin{slide}
+\centerline{\bf More details  of K-means clustering}
+
+\end{slide}
+\begin{slide}
+
+{\bf K-means clustering algorithm}
+
+\begin{enumerate}
+
+\setcounter{enumi}{-1}
+
+\item Start with initial guesses for cluster centers (centroids)
+
+\item For each data point, find closest cluster center (partitioning step)
+
+\item Replace each centroid by average of data points in its partition
+
+\item Iterate 1+2 until convergence
+
+\end{enumerate}
+
+(See Fig 14.4, 14.6) \\
+
+Write $x_i = (x_{i1}, ... x_{ip})$:
+
+If centroids are $m_1, m_2, ... m_k$, and partitions are
+
+$c_1, c_2, ... c_k$, then one can show that K-means converges to a {\it local} minimum of
+
+\[
+\sum^K_{k=1} \sum_{i\in c_k} || x_i - m_k ||^2 \ \ \ \ \ \ \ \rm Euclidean \ distance
+\]
+
+(within cluster sum of squares) \\
+
+{\bf In practice:}
+
+\begin{itemize}
+
+\item Try many random starting centroids (observations) and choose solution with smallest of squares
+
+\end{itemize}
+
+{\bf How to choose K?}
+
+\begin{itemize}
+
+\item Difficult -- details later
+
+\end{itemize}
+
+\end{slide}
+\begin{slide}
+
+{\bf Stepping back}
+
+\begin{itemize}
+
+\item All clustering algorithms start with a dissimilarity measure for $j^{th}$ feature
+
+$$d_j (x_{ij} , x_{i' j}) \ \rm and\ define $$
+
+$$D (x_i, x_{i'}) = \sum^P_{j=1} d_j (x_{ij}, x_{{i'}j} ) $$
+
+\item[] Usually $d_j (x_{ij}, x_{i' j}) = (x_{ij} - x_{i'j})^2$
+
+\end{itemize}
+
+\newpage
+\end{slide}
+\begin{slide}
+
+{\bf Other possibilities:}
+
+\begin{itemize}
+
+\item Correlation
+
+$$\rho (x_i, x_{i'}) =
+\displaystyle\frac {\sum_j (x_{ij} - \overline x_i) (x_{i' j} - \overline x_{i'} )}
+{ \sqrt{\sum_j (x_{ij} - \overline x_i )^2 \sum_j (x_{i'j} - \overline x_{i'})^2 }}$$
+
+\item[ ] $\overline x_i$ = mean of observation $i$ 
+
+\item If observations are standardized:
+
+$$x_{ij} \leftarrow \frac{ x_{ij} - \bar x_{i} }
+{\sqrt{ \sum_j (x_{ij} - \bar x_i)^2} } $$
+
+\item[] then $2(1 - \rho (x_i, x_{i'} )) = \sum_j (x_{ij} - x_{i, j'})^2$
+\item[] So clustering via correlation $\equiv$ clustering via Euclidean distance with standardized features
+
+\end{itemize}
+
+\newpage
+
+
+{\bf Partitioning (Clustering) Algorithms}
+
+\begin{itemize}
+
+\item Group assignment function (``encoder'') $C(i)$
+
+\item[] $C: 1, 2, ... N \rightarrow (1, 2, ...K)$
+
+\item {\bf Criterion}: choose $C$ to minimize
+
+$$W (C) = {1\over 2} \sum^K_{k=1} \sum_{C(i)=k} \sum_{C({i'})=k} d (x_i , x_{i'} ) $$ %your note had "D" in upper case
+
+\item[] (within cluster scatter)
+
+\end{itemize}
+
+\newpage
+
+{\bf Fact}:
+
+\begin{itemize}
+\item $K$-means minimizes $W(C)$ when $D = || x_i - x_{i'} ||^2$
+\begin{eqnarray*}
+W(C) & = &{1\over 2} \sum^K_{k=1} \sum_{C(i)=k} \sum_{C(i')=k} || x_i - x_{i'} ||^2 \\
+& = &\sum^K_{k=1} N_k \sum_{C(i)=k} || x_i - \overline x_k ||^2 %your note didn't have N_k in the middle
+\end{eqnarray*}
+
+\item K-means solves {\it enlarged} problem:
+
+$$ \min_{C, m_1 ... m_k} \sum_k \sum_{C(i)=k} ||x_i - m_k ||^2 $$ %should N_k be inserted in between \sum
+
+\item[] to find assignment function $C$
+
+\end{itemize}
+
